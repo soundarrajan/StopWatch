@@ -1,2 +1,2 @@
 # StopWatch
-Features of Stopwatch
+Special Features of Stopwatch
